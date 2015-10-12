@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 86e70aee9e4d0d049a7092c10011e7eb
+timeCreated: 1442158842
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Time_Base
+    100004: Time_BaseHalo
+    100006: Time_NeedleHalo
+    100008: Time_NeedleS
+    100010: Tme_NeedleHalo
+    100012: Tme_NeedleM
+    400000: //RootNode
+    400002: Time_Base
+    400004: Time_BaseHalo
+    400006: Time_NeedleHalo
+    400008: Time_NeedleS
+    400010: Tme_NeedleHalo
+    400012: Tme_NeedleM
+    2300000: Time_Base
+    2300002: Time_BaseHalo
+    2300004: Time_NeedleHalo
+    2300006: Time_NeedleS
+    2300008: Tme_NeedleHalo
+    2300010: Tme_NeedleM
+    3300000: Time_Base
+    3300002: Time_BaseHalo
+    3300004: Time_NeedleHalo
+    3300006: Time_NeedleS
+    3300008: Tme_NeedleHalo
+    3300010: Tme_NeedleM
+    4300000: Time_Base
+    4300002: Time_NeedleS
+    4300004: Tme_NeedleM
+    4300006: Time_BaseHalo
+    4300008: Time_NeedleHalo
+    4300010: Tme_NeedleHalo
+    7400000: Time
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Time
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 720.000061
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Time_Base
+        weight: 1
+      - path: Time_BaseHalo
+        weight: 1
+      - path: Time_NeedleHalo
+        weight: 1
+      - path: Time_NeedleS
+        weight: 1
+      - path: Tme_NeedleHalo
+        weight: 1
+      - path: Tme_NeedleM
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
